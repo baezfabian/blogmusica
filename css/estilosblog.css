@@ -1,0 +1,48 @@
+body {
+  padding-top: 0 !important;
+  background: #DCDDDF;
+}
+
+.banner
+{
+  background: #292E52;
+  min-height: 60px;
+  padding: 3px 3px 3px 3px;
+}
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+}
+.logo
+{
+  padding: 5px 5px 5px 5px !important;
+  text-align: center;
+}
+.logodd
+{
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  border: 10px 10px 10px 10px;
+}
+.barra
+{
+  background: #9CCB48;
+}
+.dtex
+{
+  color: #292E52 !important;
+  text-align: center !important;
+}
+.dtex:hover
+{
+  color: #0098DA !important;
+}
+@media (max-width:750px)
+{
+  .dlogo
+  {
+    text-align: center;
+  }
+
+}
